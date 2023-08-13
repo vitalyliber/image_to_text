@@ -6,10 +6,15 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		1683ED792A892CF8001069E6 /* TextRecognition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRecognition.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		1683ED722A892CDB001069E6 = {
 			isa = PBXGroup;
 			children = (
+				1683ED792A892CF8001069E6 /* TextRecognition.swift */,
 			);
 			sourceTree = "<group>";
 		};
