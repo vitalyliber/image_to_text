@@ -6,9 +6,7 @@ It uses the Apple Vision framework (computer vision algorithms).
 
 ## How to install
 
-```console
-Download script here
-```
+Just download it by [link](https://github.com/vitalyliber/image_to_text/releases/download/v1.0/TextRecognition)
 
 ## How to use
 
